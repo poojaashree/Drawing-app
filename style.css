@@ -94,6 +94,9 @@ section{
 .colors .option:nth-child(5){
   background-color: #4A98F7;
 }
+.colors .option:nth-child(6){
+  background-color: #e0dd11;
+}
 .colors .option.selected::before{
   position: absolute;
   content: "";
