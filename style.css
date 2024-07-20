@@ -19,7 +19,6 @@ body{
   gap: 10px;
   padding: 10px;
   max-width: 1050px;
-  font-size: 15px;
 }
 section{
   background: #ddf0f4;
@@ -167,7 +166,7 @@ section{
     width: 15px;
   }
   .buttons button{
-     width: 50%;
+     width: 50px;
      font-size: 10px;
      overflow-x:hidden ;
   }
